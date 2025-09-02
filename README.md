@@ -1,12 +1,14 @@
 # Task App
 
-![Python](https://img.shields.io/badge/Python-blue)
-![Django](https://img.shields.io/badge/Django-green,
-![Django REST](https://img.shields.io/badge/Django%20REST-red)
-![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)
-![React](https://img.shields.io/badge/React-blue)
-![Vite](https://img.shields.io/badge/Vite-yellow)
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-green?logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-red?logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=%23323330)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white)
 ![venv](https://img.shields.io/badge/venv-activated-lightgrey)
+
 
 **Task App** is a web application for managing tasks, built with **React**, **Django**, and **SQLite**, featuring **user authentication**, **protected routes**, and full CRUD functionality for tasks.
 
