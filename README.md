@@ -1,8 +1,9 @@
 # Task App
 
 ![Python](https://img.shields.io/badge/Python-blue)
-![Django](https://img.shields.io/badge/Django-green)
+![Django](https://img.shields.io/badge/Django-green,
 ![Django REST](https://img.shields.io/badge/Django%20REST-red)
+![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)
 ![React](https://img.shields.io/badge/React-blue)
 ![Vite](https://img.shields.io/badge/Vite-yellow)
 ![venv](https://img.shields.io/badge/venv-activated-lightgrey)
